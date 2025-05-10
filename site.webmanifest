@@ -1,6 +1,9 @@
 {
-  "name": "قطارات مصر",
-  "short_name": "قطارات مصر",
+  "name": "قطارات مصر - Egypt Trains",
+  "short_name": "Egypt Trains",
+  "description": "تطبيق لمواعيد القطارات التابعه لسكك حديد مصر به المواعيد الرسميه والمحدثه تلقائيا كل يوم",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -17,5 +20,5 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "fullscreen"
 }
